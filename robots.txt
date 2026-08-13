@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eurotravelbooking.help/sitemap.txt
